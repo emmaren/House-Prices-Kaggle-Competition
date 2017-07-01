@@ -1,2 +1,2 @@
-# House-Prices-Kaggle-Competition
+# House_Price_Competition
 First Kaggle Competition
